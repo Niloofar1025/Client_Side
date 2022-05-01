@@ -1,2 +1,1 @@
-# MintyYard
-Created with CodeSandbox
+Client side project - Volcanoes
